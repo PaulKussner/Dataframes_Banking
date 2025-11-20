@@ -1,0 +1,7 @@
+name = "Working_With_Data"
+uuid = "4a8d05d6-b0c5-43e3-a15e-8b0006e8cfc3"
+authors = ["Paul Kussner paul.kuessner@student.uibk.ac.at"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.11.7"
