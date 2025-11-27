@@ -1,6 +1,6 @@
 # Working_With_Data
 
-The Project features the file "Dataframes_Banking.jl" covering exercise 1, "LabBook_DataFrame.jl" covering exercise 2 and "HDF5_playground.ipynb" for exercise 3. 
+This is not a working julia projekt! The folder `src` features the file "Dataframes_Banking.jl" covering exercise 1, "LabBook_DataFrame.jl" covering exercise 2 and "HDF5_playground.ipynb" for exercise 3. 
 
 `Dataframes_Banking.jl`
 To use the code either include the file in the REPL or run it directly. The functions year_passed() and new_customer() are then available to you in the REPL. 
